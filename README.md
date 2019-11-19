@@ -2,4 +2,4 @@ A program that solves nonograms and prints progress with each iteration. Some ex
 
 TO-DO:
 * create some user-friendly interface so the user will not have to edit the script in order to input the data
-* add command line arguments
+* (maybe?) add command line arguments
